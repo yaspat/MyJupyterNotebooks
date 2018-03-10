@@ -8,3 +8,5 @@ dependencies:
   - matplotlib
   - pandas
   - rise
+  - ipywidgets
+  - jupyter_contrib_nbextensions
