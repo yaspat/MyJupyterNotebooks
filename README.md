@@ -1,2 +1,2 @@
 # MyJupyterNotebooks
-Some courses illustrated with jupiter
+Some courses illustrated with jupyter notebook
