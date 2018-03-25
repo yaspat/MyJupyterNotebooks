@@ -8,6 +8,6 @@ jupyter nbextension enable hide_input/main
 jupyter nbextension enable toggle_all_line_numbers/main
 jupyter nbextension enable codefolding/main
 
-
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust UnderstandTCL.ipynb
+jupyter trust IllustrationFonctions2Variables.ipynb
