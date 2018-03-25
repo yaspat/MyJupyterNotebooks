@@ -9,4 +9,5 @@ dependencies:
   - pandas
   - rise
   - ipywidgets
+  - Ipython
   - jupyter_contrib_nbextensions
